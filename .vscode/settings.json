@@ -34,6 +34,7 @@
         "__bit_reference": "cpp",
         "forward_list": "cpp",
         "__functional_03": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "__locale": "cpp"
     }
 }
